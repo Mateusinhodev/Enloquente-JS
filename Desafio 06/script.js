@@ -1,3 +1,5 @@
+// Contando Feijões
+
 function countBs(texto) {
 
     let caracter = 'B';
