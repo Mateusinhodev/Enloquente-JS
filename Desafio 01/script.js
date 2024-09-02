@@ -1,4 +1,4 @@
-// Triângulo com Loop  
+/* TRIANGULO COM LOOP */
 
 let simbolo = ''
 

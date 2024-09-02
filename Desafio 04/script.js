@@ -1,4 +1,4 @@
-// Minimo
+/* MINIMO */
 
 const prompt = require('prompt-sync')();
 

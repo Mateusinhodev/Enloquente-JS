@@ -1,4 +1,4 @@
-// Tabuleiro de Xadrez
+/* TABULEIRO DE XADREX */
 
 for (let x = 1; x <= 4; x++) {
     console.log("# # # #")

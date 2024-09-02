@@ -1,4 +1,4 @@
-// Recursão
+/* RECURSÃO */
 
 function isEven(num) {
     if(num == 0) {

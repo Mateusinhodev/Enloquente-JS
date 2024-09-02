@@ -1,4 +1,4 @@
-// Contando Feijões
+/* Contando Feijões */
 
 function countBs(texto) {
 

@@ -7,6 +7,13 @@
 - Retorna o valor da string convertida para maiúsculas.
 
 ### Math.min()
-- retorna o número com o menor valor.
+- Retorna o número com o menor valor.
+
+### Math.floor()
+- É usado para arredondar para baixo o resultado da divisão
 
 ### prompt()
+- Captura uma interação com o usuário.
+
+### reverse()
+- Modifica o array invertendo a ordem em que os elementos aparecem.

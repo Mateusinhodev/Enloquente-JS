@@ -1,4 +1,4 @@
-// A Soma de um intervalo
+/* A SOMA DE UM INTERVALO */
 
 const numeros = [];
 
