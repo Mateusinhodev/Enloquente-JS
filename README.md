@@ -17,3 +17,9 @@
 
 ### reverse()
 - Modifica o array invertendo a ordem em que os elementos aparecem.
+
+### reduce()
+- É usado para "reduzir" uma array a um único valor, aplicando uma função a cada elemento da array (da esquerda para a direita).
+
+### concat()
+- Faz a junção de valores

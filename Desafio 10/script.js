@@ -1,3 +1,5 @@
+/* COMPARAÇÃO PROFUNDA */
+
 function deepEqual(a, b) {
     if (a === b) {
         return true; // Comparação direta para valores idênticos
